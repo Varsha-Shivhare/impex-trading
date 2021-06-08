@@ -1,0 +1,111 @@
+#main_navbar {
+    position: fixed;
+    top:0%;
+    left:0%;
+    z-index: 30;
+    padding: 0;
+    margin: 0;
+    width:100%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: montserrat;
+  }
+  #main_navbar nav{
+    background: rgb(0,0,0,0.9);
+    height: 60px;
+    width: 100%;
+  }
+  #main_navbar label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 60px;
+    padding: 0 100px;
+    font-weight: bold;
+  }
+  /* #main_navbar label{
+    margin-bottom:0%;
+  } */
+  #main_navbar nav ul{
+    float: right;
+    margin-right: 10px;
+    margin-top:10px;
+  }
+  #main_navbar nav ul li{
+    display: inline-block;
+    line-height: 40px;
+    margin: 0px;
+  }
+  #main_navbar nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 10px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    position: relative;
+    text-decoration: none;
+  }
+  #main_navbar a:hover,
+  #main_navbar a.active{
+    color:skyblue;
+  }
+ 
+  #main_navbar .checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 60px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+  }
+  #check{
+    display: none;
+  }
+  
+  @media (max-width: 952px){
+    #main_navbar label.logo{
+      font-size: 30px;
+      padding: 0 50px;
+    }
+    
+    #main_navbar nav ul li a{
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 858px){
+    #main_navbar .checkbtn{
+      display: block;
+      margin-right:30px;
+    }
+    #main_navbar nav ul{
+      position: fixed;
+      width: 100%;
+      z-index: 100 !important;
+      background:  rgb(0,0,0,0.8);
+      top: 60px;
+      left: -100%;
+      text-align: center;
+      transition: all .5s;
+      margin:0;
+      padding-bottom: 15px;
+      padding-top: 15px;
+
+    }
+    #main_navbar nav ul li{
+      display: block;
+      width:100%;
+      margin: 5px 0;
+      line-height: 30px;
+    }
+    #main_navbar nav ul li a{
+      font-size: 20px;
+    }
+    #main_navbar a.hover a.active{
+      background: none;
+      color: black;
+    }
+    #check:checked ~ ul{
+      left: 0;
+    }
+  }

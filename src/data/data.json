@@ -1,0 +1,216 @@
+{
+    "Header": {
+
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [
+        {
+            "icon": "domestic",
+            "name": "Domestic",
+            "text": "Impex Domestic pumps are Ideal for homes to maintain water pressure in taps and for general applications like watering for gardens and fountains."
+        },
+        {
+            "icon": "agriculture",
+            "name": "Agriculture",
+            "text": "Impex pumps easily meet varied agricultural needs, be it drip irrigation, agricutural sprinkler systems or in the watering of fields."
+        },
+        {
+            "icon": "industrial",
+            "name": "Industrial",
+            "text": "Impex Pumps are used in industries for a variety of purposes that include Cutting & Grinding, fire-fighting, managing sewage, heating & cooling of systems etc."
+        },
+        {
+            "icon": "commercial",
+            "name": "Commercial Building Sector",
+            "text": "Shakti pumps is a major force in places like hotels, corporates, malls etc. where heavy pressure and boosting is required. It supplies pumps with the latest digital technology for Cooling, Heating, Waste water management etc."
+        },
+        {
+            "icon": "solar",
+            "name": "Solar",
+            "text": "A channel partner for the Ministry of New & Renewable Energy (MNRE), Shakti Pumps has a range of Solar pumps between 1HP to 100 HP that are simple and easy to operate, offering 40% more discharge than other ordinary pumps."
+        },
+        {
+            "icon": "sewage",
+            "name": "Sewage & Drainage",
+            "text": "From draining flooded water from various areas like basements, car parks, empty cesspools to managing sewage in a water treatment plant, Shakti Pumps are widely used in the domestic, industrial as well as other sectors."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ],
+
+    "a": [{
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }],
+    "s": [{
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }],
+    "f": [{
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-cloud-download",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-cloud-download",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }],
+    "d": [{
+        "icon": "fa fa-pie-chart",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-pie-chart",
+        "name": "Lorem ipsum dolor",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }]
+}

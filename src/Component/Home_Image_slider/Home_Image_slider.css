@@ -1,0 +1,9 @@
+#carouselHomrFade{
+    top:0;
+    left:0;
+    z-index: 1;
+}
+
+.carousel-inner{
+    max-height: 400px;
+}
